@@ -55,3 +55,5 @@ In summary, this task highlighted the entire workflow of a text classification p
 <img width="412" alt="Image" src="https://github.com/user-attachments/assets/98d6a8a3-5e49-44b5-ae6b-a6aabcc3930d" />
 
 <img width="320" alt="Image" src="https://github.com/user-attachments/assets/93dc35a0-5e23-4739-8f9c-003cfe07b014" />
+
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/71172082-7f99-47db-a6a3-66d0b2ae6397" />
