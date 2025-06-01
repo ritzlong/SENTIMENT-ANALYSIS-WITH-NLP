@@ -53,3 +53,5 @@ In summary, this task highlighted the entire workflow of a text classification p
 *OUTPUT*
 
 <img width="412" alt="Image" src="https://github.com/user-attachments/assets/98d6a8a3-5e49-44b5-ae6b-a6aabcc3930d" />
+
+<img width="320" alt="Image" src="https://github.com/user-attachments/assets/93dc35a0-5e23-4739-8f9c-003cfe07b014" />
