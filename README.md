@@ -50,4 +50,6 @@ Real world applications:
 
 In summary, this task highlighted the entire workflow of a text classification problem—from loading data, preprocessing, and feature extraction, to training and evaluating a machine learning model. Using Python in Google Colab, along with scikit-learn and TF-IDF, we demonstrated how sentiment analysis can be performed efficiently and effectively on real-world textual data.
 
+*OUTPUT*
 
+<img width="412" alt="Image" src="https://github.com/user-attachments/assets/98d6a8a3-5e49-44b5-ae6b-a6aabcc3930d" />
